@@ -4,9 +4,9 @@ The system enables decision-makers, agricultural planners, and environmental aut
 
 🚀 Key Features
 - Governorate-Level Monitoring: Analyze agricultural degradation across Al-Qalyubiyah as a whole.
-![Al-Qalyubiyah Map](governorate_map.png)
+![Al-Qalyubiyah Map](./governorate_map.png)
 - District-Level Selection: Users can choose a specific district to perform focused analysis.
-  ![District Map](District_map.png)
+  ![District Map](./District_map.png)
 - Sentinel-2 Time Series Processing (2018–2025).
 - Vegetation Health Classification: Automatically categorizes land as:
   - ✅ Stable Agricultural Land
