@@ -5,7 +5,7 @@ from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 import io
 
-ee.Initialize(project='nairaproject')
+ee.Initialize()
 app = Flask(__name__)
 
 @app.route('/')
@@ -286,4 +286,5 @@ def download_pdf():
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=8500)
+
 
